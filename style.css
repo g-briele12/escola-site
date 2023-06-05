@@ -4,5 +4,7 @@
 .site{background-color: rgb(245, 235, 235); color: #f13232;} 
 .imagem-carros {width: 180px; height: 130px;}
 .rodape{background-color: #221313; color:aliceblue; display: flex; justify-content: space-around;}
-.carros-div{display}
- 
+.carros-div{display:inline-block}
+.carro-nome{}
+.carros-titulo{}
+.carros{text-align: center;}
